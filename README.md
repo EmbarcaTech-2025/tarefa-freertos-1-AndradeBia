@@ -1,8 +1,8 @@
 # Relatório de Análise: Sistema Multitarefa com FreeRTOS
 
-- Autor: ** Bianca Andrade
-- Projeto: ** embarcatech-freertos-tarefa-1
-- Data: ** 14 de Junho de 2025
+- Autor:  Bianca Andrade
+- Projeto:  embarcatech-freertos-tarefa-1
+- Data:  13 de Junho de 2025
 
 ---
 
